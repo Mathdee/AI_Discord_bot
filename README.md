@@ -1,6 +1,7 @@
 DiscordBot.py
 ==========
 This Discord bot interacts with users through various commands to provide AI-generated responses, riddles, positive quotes, and more. It leverages the Google Generative AI API for generating AI support and responds to user commands in real-time.
+https://www.youtube.com/watch?v=6LgEYKjkR2E
 
 Key Features:
 -------------
